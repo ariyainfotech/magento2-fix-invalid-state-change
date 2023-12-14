@@ -13,6 +13,6 @@ This might involve in security isues, so please concider before installing this 
 
 To install this module use:
 ```
-composer require ariyainfotech/module-magento2-fix-invalid-state-change
+composer require ariyainfotech/magento2-fix-invalid-state-change
 bin/magento setup:upgrade
 ```
