@@ -1,0 +1,23 @@
+{
+    "name": "ariyainfotech/module-magento2-fix-invalid-state-change",
+    "description": "Updates the Magento quote if it has a invalid state",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Ariya InfoTech",
+            "email": "info@ariyainfotech.com"
+        },
+        {
+            "name": "Yuvraj Raulji",
+            "email": "toyuvrajraulji@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AriyaInfoTech\\FixInvalidStateChange\\": ""
+        }
+    }
+}
